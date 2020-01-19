@@ -1,0 +1,13 @@
+h3{
+	text-align: center;
+	border: solid;
+	border-color: blue;
+	box-shadow: 1px 3px
+}
+p{
+	text-align: justify-all;
+}
+div{
+	background-color: silver;
+	list-style: inline;
+}
